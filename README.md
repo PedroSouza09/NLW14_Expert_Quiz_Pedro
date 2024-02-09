@@ -14,7 +14,7 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/NLW6_BeautySalon_Origin_Pedro/)
+[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/NLW_Expert_Quiz_Pedro/)
 
 ## 🛠 Tecnologias
 
